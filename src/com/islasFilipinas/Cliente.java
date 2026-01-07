@@ -7,7 +7,7 @@ public class Cliente {
 	
 	//constantes
 	
-    private static final String SERVER_ADDRESS = "localhost" ;//"192.168.30.193"; 
+    private static final String SERVER_ADDRESS = "localhost" ; 
     private static final int SERVER_PORT = 5000; 
 
     public static void main(String[] args) { 
@@ -51,3 +51,4 @@ public class Cliente {
         }
     }
 }
+
